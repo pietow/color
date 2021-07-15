@@ -9655,5 +9655,30 @@ h3 {
     border-color: #dee2e6;
   }
 }
+.card > .bg-purpel-400 {
+  background-color: #432776;
+}
+
+.item {
+  width: 9rem;
+  height: 6rem;
+  margin: 2rem 0;
+}
+
+.bg-1 {
+  background-image: linear-gradient(90deg, #ffc107 33.333%, #a07800 33.333%, #a07800 66.666%, #ffce3a 66.666%);
+}
+
+.bg-2 {
+  background-image: linear-gradient(90deg, #dc3545 33.333%, #921925 33.333%, #921925 66.666%, #e4606d 66.666%);
+}
+
+.bg-3 {
+  background-image: linear-gradient(90deg, #007bff 33.333%, #004a99 33.333%, #004a99 66.666%, #3395ff 66.666%);
+}
+
+.bg-4 {
+  background-image: linear-gradient(90deg, #6f42c1 33.333%, #432776 33.333%, #432776 66.666%, #8c68ce 66.666%);
+}
 
 /*# sourceMappingURL=main.css.map */
